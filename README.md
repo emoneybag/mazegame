@@ -10,7 +10,7 @@ trying to fix it by updating script to use pygame module
  - [Credits](#credits)
 
 ## Updates
-Trying to fix the code by changing script to use the pygame module instead of base/vanilla python
+Trying to fix the code by changing script to use the pygame module instead of base/vanilla python.
 I will continue to update for now
 
 ## About
