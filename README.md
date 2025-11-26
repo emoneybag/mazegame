@@ -18,5 +18,5 @@ This is a game project I took on when I was 15, gave up and now I decided to rev
 
 ## Credits
 - Original code was from a YouTube tutorial. Link here: (couldn't find the original link, will keep searching)
-- Updated pygame code using guidance from YouTube: [ShawCode Pygame RPG Turtorials](https://www.youtube.com/watch?v=crUF36OkGDw&list=PLkkm3wcQHjT7gn81Wn-e78cAyhwBW3FIc)
-  Contributions are welcome and will receive credit.
+- Updated pygame code using guidance from YouTube: [ShawCode Pygame RPG Turtorials](https://www.youtube.com/watch?v=crUF36OkGDw&list=PLkkm3wcQHjT7gn81Wn-e78cAyhwBW3FIc)  
+Contributions are welcome and will receive credit.
